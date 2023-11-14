@@ -1,0 +1,12 @@
+E:\Projects\Cinemava\Cinemava.Infrastructure\bin\Debug\net6.0\Cinemava.Infrastructure.deps.json
+E:\Projects\Cinemava\Cinemava.Infrastructure\bin\Debug\net6.0\Cinemava.Infrastructure.dll
+E:\Projects\Cinemava\Cinemava.Infrastructure\bin\Debug\net6.0\Cinemava.Infrastructure.pdb
+E:\Projects\Cinemava\Cinemava.Infrastructure\obj\Debug\net6.0\Cinemava.Infrastructure.csproj.AssemblyReference.cache
+E:\Projects\Cinemava\Cinemava.Infrastructure\obj\Debug\net6.0\Cinemava.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Cinemava\Cinemava.Infrastructure\obj\Debug\net6.0\Cinemava.Infrastructure.AssemblyInfoInputs.cache
+E:\Projects\Cinemava\Cinemava.Infrastructure\obj\Debug\net6.0\Cinemava.Infrastructure.AssemblyInfo.cs
+E:\Projects\Cinemava\Cinemava.Infrastructure\obj\Debug\net6.0\Cinemava.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Projects\Cinemava\Cinemava.Infrastructure\obj\Debug\net6.0\Cinemava.Infrastructure.dll
+E:\Projects\Cinemava\Cinemava.Infrastructure\obj\Debug\net6.0\refint\Cinemava.Infrastructure.dll
+E:\Projects\Cinemava\Cinemava.Infrastructure\obj\Debug\net6.0\Cinemava.Infrastructure.pdb
+E:\Projects\Cinemava\Cinemava.Infrastructure\obj\Debug\net6.0\ref\Cinemava.Infrastructure.dll
